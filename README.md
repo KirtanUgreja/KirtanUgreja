@@ -1,7 +1,7 @@
 # 🚀 Hey there, I'm Kirtan Ugreja! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Science+Explorer+🔬;AI%2FML+Enthusiast+🤖;Python+Developer+🐍;WorkflowAutomation+Workflow+Maker+⚡;AI-Powered+Creator+🎨;Future+Tech+Innovator+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Science+Explorer+🔬;AI%2FML+Enthusiast+🤖;Python+Developer+🐍;Automation+Workflow+Maker+⚡;AI-Powered+Creator+🎨;Future+Tech+Innovator+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
