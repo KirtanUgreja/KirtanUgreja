@@ -18,35 +18,6 @@
 
 I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, and **Intelligent Automation**! Starting with Python as my trusty companion, I'm diving deep into the ocean of data, algorithms, and workflow automation. Now I'm also leveraging AI to supercharge my coding and design capabilities! 
 
-<table>
-<tr>
-<td>
-
-### 🌟 Current Status
-- 🔥 **Learning**: Data Science & AI/ML fundamentals  
-- 🐍 **Mastering**: Python programming
-- ⚡ **Automating**: Complex workflows with n8n
-- 🤖 **AI-Powered**: Coding and design with AI assistance
-- 📊 **Exploring**: Data visualization & statistics
-- 🎨 **Creating**: AI-enhanced applications
-- 📚 **Reading**: Everything about neural networks!
-
-</td>
-<td>
-
-### 🎮 Fun Facts
-- 🧠 I think in Python syntax now
-- ⚡ I automate everything (even my morning routine!)
-- 🤖 AI is my coding co-pilot
-- 📈 I see patterns everywhere
-- 🎲 I love the randomness in random forests
-- 🔍 Data detective by day, automation wizard by night
-- ☕ Powered by curiosity, caffeine, and smart workflows
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ My Tech Arsenal
@@ -60,76 +31,6 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-### 🎯 Learning Roadmap
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**📊 Data Science**
-- Pandas
-- NumPy  
-- Matplotlib
-- Seaborn
-- Plotly
-
-**🤖 Machine Learning**
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Hugging Face
-
-</td>
-<td width="25%" valign="top">
-
-**⚡ Automation**
-- n8n (Intermediate)
-- API Integrations
-- Webhook Management
-- Process Automation
-
-**🤖 AI-Powered Development**
-- GitHub Copilot
-- ChatGPT/Claude for Coding
-- AI-Assisted Design
-- Prompt Engineering
-
-</td>
-<td width="25%" valign="top">
-
-**🌐 Web Development**
-- HTML/CSS/JavaScript
-- FastAPI
-- Streamlit
-- Flask
-- REST APIs
-
-**🗄️ Database & Backend**
-- SQL
-- MongoDB
-- PostgreSQL
-- JSON/XML
-
-</td>
-<td width="25%" valign="top">
-
-**☁️ Cloud & Tools**
-- AWS
-- Docker
-- Apache Spark
-- Git & GitHub
-- Linux/Command Line
-
-**📈 Data Analysis**
-- Statistical Analysis
-- Data Visualization
-- Business Intelligence
-- Excel/Google Sheets
-
-</td>
-</tr>
-</table></table>
-
 ### 🎯 My Learning Journey
 <div align="center">
   <img src="https://img.shields.io/badge/Current%20Level-Intermediate-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Current Level" />
@@ -139,37 +40,17 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
 
 ---
 
-## 🎨 Current Projects & Explorations
-
-### 📈 Learning Progress Tracker
-| Technology | Status | Progress |
-|------------|--------|----------|
-| Python Basics | ✅ Completed | ████████████████████ 100% |
-| Data Structures & Algorithms | 🔄 In Progress | ████████░░░░░░░░░░░░ 40% |
-| n8n Workflow Automation | 🔄 In Progress | ██████████████░░░░░░ 70% |
-| AI-Assisted Coding | 🔄 In Progress | ████████████████░░░░ 80% |
-| Pandas & NumPy | 🔄 In Progress | ████░░░░░░░░░░░░░░░░ 20% |
-| Machine Learning | 🔄 Learning | ██░░░░░░░░░░░░░░░░░░ 10% |
-| Deep Learning | 📅 Planned | ░░░░░░░░░░░░░░░░░░░░ 0% |
-| AI Design Tools | 🔄 In Progress | ████████████░░░░░░░░ 60% |
-
----
-
 ## 💡 Featured Skills & Specializations
 
 ### ⚡ Workflow Automation with n8n
-- **Complex Multi-Step Workflows**: Design and implement sophisticated automation pipelines
-- **API Integration Master**: Connect diverse services and platforms seamlessly  
-- **Data Processing Automation**: Automate data collection, transformation, and analysis
-- **Webhook & Trigger Management**: Create responsive, event-driven automations
-- **Business Process Optimization**: Streamline repetitive tasks and improve efficiency
+- **Complex Multi-Step Workflows** & **API Integration**
+- **Data Processing Automation** & **Webhook Management**
+- **Business Process Optimization**
 
 ### 🤖 AI-Powered Development & Design
-- **AI-Assisted Coding**: Leverage Llm models for faster, smarter code development
-- **Prompt Engineering**: Craft effective prompts for optimal AI assistance
-- **AI-Enhanced Design**: Use AI tools for creative and technical design solutions
-- **Code Review & Optimization**: Utilize AI for code quality improvement
-- **Automated Documentation**: Generate comprehensive docs with AI assistance
+- **AI-Assisted Coding** & **Prompt Engineering**
+- **AI-Enhanced Design** & **Code Optimization**
+- **Automated Documentation**
 
 ---
 
@@ -186,21 +67,6 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
----
-
-## 🎯 2025 Goals Checklist
-
-- [x] Master Python fundamentals
-- [x] Create awesome GitHub profile
-- [x] Learn n8n workflow automation
-- [x] Integrate AI into coding workflow
-- [ ] Complete first end-to-end data science project
-- [ ] Build AI-powered automation solution
-- [ ] Create n8n workflow library
-- [ ] Build first production ML model
-- [ ] Contribute to open source projects
-- [ ] Land first role in data science/automation
 
 ---
 
