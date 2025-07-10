@@ -1,7 +1,7 @@
 # 🚀 Hey there, I'm Kirtan Ugreja! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Science+Explorer+🔬;AI%2FML+Enthusiast+🤖;Python+Developer+🐍;Workflow+Automation+Master+⚡;AI-Powered+Creator+🎨;Future+Tech+Innovator+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Science+Explorer+🔬;AI%2FML+Enthusiast+🤖;Python+Developer+🐍;Workflow+Automation+Maker+⚡;AI-Powered+Creator+🎨;Future+Tech+Innovator+✨" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -55,7 +55,6 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -166,7 +165,7 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
 - **Business Process Optimization**: Streamline repetitive tasks and improve efficiency
 
 ### 🤖 AI-Powered Development & Design
-- **AI-Assisted Coding**: Leverage GPT models for faster, smarter code development
+- **AI-Assisted Coding**: Leverage Llm models for faster, smarter code development
 - **Prompt Engineering**: Craft effective prompts for optimal AI assistance
 - **AI-Enhanced Design**: Use AI tools for creative and technical design solutions
 - **Code Review & Optimization**: Utilize AI for code quality improvement
