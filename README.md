@@ -194,7 +194,7 @@ I'm on an exciting journey to master the world of **Data Science**, **AI/ML**, a
 
 - [x] Master Python fundamentals
 - [x] Create awesome GitHub profile
-- [x] Master n8n workflow automation
+- [x] Learn n8n workflow automation
 - [x] Integrate AI into coding workflow
 - [ ] Complete first end-to-end data science project
 - [ ] Build AI-powered automation solution
