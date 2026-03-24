@@ -56,9 +56,9 @@ I work across **AI, backend development, and automation**, experimenting with mu
 ## ⬆ What I’m up to
 - 🔨 I’m currently working on:
 ```yaml
-- SMSGPT: An SMS-based AI assistant for low / no-internet devices
-- AI automation workflows using FastAPI + n8n
-- Backend APIs for AI-powered applications
+- SMSGPT: An SMS-based AI assistant for low / no-internet devices.
+- VibeLens an nodebase simple explination on any vibecoded app.
+- Backend APIs for AI-powered applications.
 ```
 
 ---
